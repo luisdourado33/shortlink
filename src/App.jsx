@@ -1,6 +1,6 @@
 /**
  * ShortLink 1.0
- * Github's repository: https://github.com/luisdourado33/shortlink
+ * Github repository: https://github.com/luisdourado33/shortlink
  * Have fun! 
  */
 
